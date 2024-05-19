@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eneji Victor</h1>
+<h1> I'm Eneji Victor</h1>
 <h3 align="center">I a student of ALX software Engineering</h3>
 
 - 🌱 I’m currently learning **Backend development**
