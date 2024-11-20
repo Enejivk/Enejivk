@@ -1,7 +1,7 @@
 <h1 align='center'>Eneji Victor</h1>
 
 <p align='center'>
-  I am a student of Alx Software Engineering
+  I am Graduate of Alx and Former intern at Holberton school of engineering
 </p>
 
 <p align='center'>
