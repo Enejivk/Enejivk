@@ -1,77 +1,70 @@
-# Hi, I’m **[Your Name]** 👋  
-**Full‑Stack Developer** | Next.js & FastAPI Enthusiast
+# Eneji Victor
+
+Full Stack Engineer
+
+[Email](mailto:enejivic@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eneji-victor/) | [GitHub](https://github.com/Enejivk) | [Portfolio](#)
 
 ---
 
-## 🚀 About Me
+## Experience
 
-- Passionate developer with experience building scalable web applications using **Next.js** for the frontend and **FastAPI** for the backend.  
-- I love working on real-time, data-driven systems, and building clean APIs and intuitive user experiences.  
-- Currently exploring **GraphQL**, **microservices**, and **DevOps** practices.
+### JUSTIGUIDE | Full Stack Engineer
+**Jul 2023 – Present**
 
----
+- **Stack:** Python, FastAPI, React.js, AWS, S3, PostgreSQL, Tailwind CSS, JWT, CI/CD Pipeline
+- Built a backend system with WebSockets for real-time client-lawyer chat.
+- Added a chatbot using the OpenAI API to answer common immigration questions.
+- Created a task management service for lawyers to track legal cases and tasks.
+- Set up a secure document system for file uploads, permissions, and retrieval.
 
-## 💡 What I Do / My Expertise
+### SENTINEL | Full Stack Engineer (Contract)
+**Feb 2024 – Jul 2024**
 
-| **Layer** | **Technologies** |
-|---|---|
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
-| **Backend** | FastAPI, Python, SQL (PostgreSQL), REST, WebSockets |
-| **DevOps & Tools** | Docker, Git, GitHub Actions, CI/CD |
-| **Other Skills** | Unit testing, TDD, API design, authentication & authorization |
+- **Stack:** React.js, TypeScript, Python (FastAPI), PostgreSQL, Nginx, Docker
+- Developed a full-stack platform for secure client-service provider transactions.
+- Implemented secure RESTful APIs for user authentication and payment processing.
+- Designed responsive frontend dashboards for clients and providers.
+- Automated deployment using Docker and Nginx.
 
----
+### PHOTOSTOCK | Front-End Engineer (Contract)
+**Jan 2023 – Jul 2023**
 
-## 📂 Featured Projects
-
-Here are a few of my projects. (Note: these are examples — replace with yours.)
-
-- **[Project Name A](https://github.com/your-username/project-a)**  
-  A progressive web app built with Next.js, featuring SSR, authentication, and dynamic data fetching.
-
-- **[Project Name B](https://github.com/your-username/project-b)**  
-  A microservice application powered by FastAPI, Dockerized, with async endpoints and WebSocket support.
-
-- **[Project Name C](https://github.com/your-username/project-c)**  
-  Real-time chat application using Next.js on frontend, FastAPI backend, and Redis for message brokering.
+- **Stack:** React.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
+- Built a landing page for photographers to showcase portfolios.
+- Developed a client dashboard for tracking photo orders and managing account settings.
+- Implemented a secure photo-sharing system with personalized client links.
+- Integrated a payment gateway for seamless transactions.
 
 ---
 
-## 📈 GitHub Stats
+## Open Source Contribution
 
-<!-- You can generate this with a service like github-readme-stats -->
-![Your Name’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+### CAP | Full Stack Engineer
+**Sept 2025 – Present**
 
----
-
-## 📫 How to Reach Me
-
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- **Portfolio / Blog**: [your-website.com](https://your-website.com)  
-- **Email**: youremail@example.com
+- **Stack:** React.js, S3, PostgreSQL, Tailwind CSS
+- Contributed to Cap, an open-source alternative to Loom.
+- Fixed UI overlap and padding issues.
+- Added macOS-style Tahoe cursors and improved cross-platform design.
+- Enhanced the timeline editor with precision split-mode and visual cursor feedback.
 
 ---
 
-## 🎯 Currently Learning / Open to Collaborate On
+## Skills
 
-- Learning **GraphQL** and integrating it with FastAPI  
-- Building **microservices** for scalable, distributed systems  
-- Open to collaborating on open-source projects or startups around web apps, APIs, or DevOps tooling
-
----
-
-## 💬 Fun Fact
-
-> “Code is like humor. When you have to explain it, it’s bad.” — _Cory House_
-
-(I also brew a mean cup of coffee while writing code ☕)
+- **Frontend:** React.js, HTML/CSS, Tailwind, JavaScript, TypeScript
+- **Backend:** Python, FastAPI, REST, WebSockets, Redis, JWT, PostgreSQL, MySQL, C programming
+- **Others:** OpenAI API, LangChain (basic), GPT-4, AWS (S3, EC2), Nginx, Linux, Docker, GitHub Actions, Postman, Pytest, Git
 
 ---
 
-## 🧷 Acknowledgments & Inspiration
+## Education & Certifications
 
-Inspired by many awesome GitHub profile READMEs curated here:  
-[awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) :contentReference[oaicite:4]{index=4}
+- **ALX School of Software Engineering:** Software Engineering Program (Backend Development, Algorithms) [Link](#)
+- **freeCodeCamp:** Responsive Web Design Certification [Link](#)
+- **freeCodeCamp:** JavaScript Algorithms and Data Structures Certification
+- **Cross River State University of Technology:** B.Sc. in Medical Biochemistry
 
 ---
 
+Feel free to reach out for collaboration or any inquiries!
